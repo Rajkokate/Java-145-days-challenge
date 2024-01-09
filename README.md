@@ -31,4 +31,9 @@ It' all about Functions & methods we discuss or learn about creating function wi
    4. Also see some memory part in JAVA like in java we know that variables in java occupy memory but also functions occupy memory in form of stack.
    5. Each element in stack is called stack frame . Each function type call from main fun it will stored in memory of stack.
    6. Also see concepts of swapping 2 numbers using logic of temp variable. (logic of 3 buckets)
-   7. Most important concepts is j(ava always calls by value) call by reference means when function call in java with some value will be passed so always java pass the copy of value instead of passing original value .    
+   7. Most important concepts is j(ava always calls by value) call by reference means when function call in java with some value will be passed so always java pass the copy of value instead of passing original value .
+  
+   8. Looking forward to calculate binomial coefficient using samelogic of factorial
+      simpli replace value in formula = n!/r!(n-r)!
+      we calculate all factorial using previous function of factorial and then replace valuse with a, b, c
+      i.e. bc=a/(b*c) a=n_fact , b=r_fact , c=fact_(n-r).
