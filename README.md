@@ -37,3 +37,9 @@ It' all about Functions & methods we discuss or learn about creating function wi
       simpli replace value in formula = n!/r!(n-r)!
       we calculate all factorial using previous function of factorial and then replace valuse with a, b, c
       i.e. bc=a/(b*c) a=n_fact , b=r_fact , c=fact_(n-r).
+  
+Day-7
+1. Function Overloading - its not depend on return type of function it will depend on parameters of function.
+2. example like we write multiply function in this different type of parameters we can use like float int double or multiple values like 2 value multiply or 3 value.
+3. Multiple 
+      
