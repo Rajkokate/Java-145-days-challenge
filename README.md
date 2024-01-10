@@ -41,5 +41,12 @@ It' all about Functions & methods we discuss or learn about creating function wi
 Day-7
 1. Function Overloading - its not depend on return type of function it will depend on parameters of function.
 2. example like we write multiply function in this different type of parameters we can use like float int double or multiple values like 2 value multiply or 3 value.
-3. Multiple 
+
+
+inthis isprime 2 more corner cases made(not checking as normal number )
+
+  we will look this number as condition like num 2. it is alreay prime dont need to check so we write 
+  cond'n for 2num
+  corner cases - if is not prime then right false here not going to outter loop.(instead of false we have to write 
+                    // prime when variable declared.)
       
