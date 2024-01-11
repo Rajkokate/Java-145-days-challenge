@@ -49,4 +49,8 @@ inthis isprime 2 more corner cases made(not checking as normal number )
   cond'n for 2num
   corner cases - if is not prime then right false here not going to outter loop.(instead of false we have to write 
                     // prime when variable declared.)
+
+Day-8
+Its all about advandec pattern printing using concepts of functions methods loops and concepts still we learn.
+pattern like rectangle , butterfly , hoollow rectangle, inverted half pyramid.
       
