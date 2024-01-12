@@ -53,4 +53,7 @@ inthis isprime 2 more corner cases made(not checking as normal number )
 Day-8
 Its all about advandec pattern printing using concepts of functions methods loops and concepts still we learn.
 pattern like rectangle , butterfly , hoollow rectangle, inverted half pyramid.
+
+Hollow rectangle using simple logic of row and columns of matrix.
+we simply print boundry cell of matrix to print hollow rectangle.
       
