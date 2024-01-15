@@ -56,4 +56,9 @@ pattern like rectangle , butterfly , hoollow rectangle, inverted half pyramid.
 
 Hollow rectangle using simple logic of row and columns of matrix.
 we simply print boundry cell of matrix to print hollow rectangle.
+
+In this module of advanced pattern we almost learn and code all type of pattern and logics .
+for example palimdromw with numbers , pyramid with numbers and spaces .
+All the promblem solve with dry run. and only remember that all pattern solve with 3 basics rule 
+ a.outer loop b. inner loop c. what should print(num,*)
       
