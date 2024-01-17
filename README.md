@@ -62,3 +62,5 @@ for example palimdromw with numbers , pyramid with numbers and spaces .
 All the promblem solve with dry run. and only remember that all pattern solve with 3 basics rule 
  a.outer loop b. inner loop c. what should print(num,*)
       
+Day-9
+We will started with array today basic operations on array like addition, substrate array. Storage part of an array that how array manage data during live uses of bits. Then next part comes in array is bits manipulation.
