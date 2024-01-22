@@ -1,22 +1,15 @@
-// print hollow rectangle using simple logic of matrix with loops and function integrration.
-
-public class pro1 {
-    public static void holl_rect(int row, int col){
-        // outer loop for row print
-        for(int i=1;i<=row;i++){
-            // inner loop for columns print
-            for(int j=1;j<=col;j++){
-                // condition for print only boundry cell .
-                if(i==1 || i==row || j==1 || j==col){
-                    System.out.print("*");
-                }else{
-                    System.out.print(" ");
-                }
-            }System.out.println();
-        }
-    }
-
+import java.util.*;
+public class pro1{
     public static void main(String[] args) {
-        holl_rect(10, 5);
+        Scanner sc = new Scanner(System.in);
+    int num[] = new int[50]; // type 1 to write array size=50 but now is empty
+    
+    int num2[] = {1,2,3};// type 2 size=3
+
+    String friut[] = {"apll","mango"};// type 3 size=3
+
+
+
+    
     }
 }
