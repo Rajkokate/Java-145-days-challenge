@@ -10,6 +10,17 @@ public class pro1{
 
 
 
-    
+    num[0] = sc.nextInt();
+    num[1] = sc.nextInt();
+    num[2] = sc.nextInt();
+
+    System.err.println("phy :" + num[0]);
+    System.err.println("chem :" + num[1]);
+    System.err.println("bio :" + num[2]);
+
+    num[2] = 100;
+    System.err.println("bio :" + num[2]);
+    System.err.println("length of array" + num.length);
+
     }
 }
