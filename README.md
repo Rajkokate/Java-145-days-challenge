@@ -64,3 +64,5 @@ All the promblem solve with dry run. and only remember that all pattern solve wi
       
 Day-9
 We will started with array today basic operations on array like addition, substrate array. Storage part of an array that how array manage data during live uses of bits. Then next part comes in array is bits manipulation.
+
+we reach to the topic of array in which we discuss and solve problem on Linear Search & Binary search in depth.Also discuss time complexcity O(1). Then forward to reverse array problem using logics of swap array technique. both for even number & odd number array size. array passed the value by reference. 
